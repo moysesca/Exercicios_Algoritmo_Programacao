@@ -1,4 +1,4 @@
-# Exercicios_Algoritmo_Programacao
+# Exercicios Algoritmos de Programação em Python
 
 ---
 
