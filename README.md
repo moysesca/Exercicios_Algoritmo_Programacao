@@ -5,8 +5,8 @@
 Aqui deixarei alguns exercicios feitos no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas, especificamente na matéria de Algoritmos e Programação, ministrada pelo Prof. Me. Daniel Calife
 
 ---
-<a> 1 Escreva um algorítmo que considere a entrada de 4 notas de alunos e exiba qual é a maior e
-a menor pontuação entre eles. </a>
+<br>1 Escreva um algorítmo que considere a entrada de 4 notas de alunos e exiba qual é a maior e
+a menor pontuação entre eles. </br>
 2 Crie um programa que lê 2 notas de um aluno e um caracter representando o tipo de média a
 ser calculada (‘a’ - aritmética, ‘p’ - Ponderada). Caso o tipo da média seja ‘a’, calcule e escreva
 na saída o valor da média aritmética, caso seja ‘p’ o calcule e escreva o valor da média ponderada
