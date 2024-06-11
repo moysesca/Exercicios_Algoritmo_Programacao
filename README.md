@@ -37,3 +37,6 @@ formigueiro A ultrapasse ou iguale a do formigueiro B, mantidas essas taxas de c
 
 9) Desenvolva um método que dado um número inteiro, ele exiba um triangulo reto com a base
 formada por um número de asteriscos igual ao número informado. Exemplo; número = 8
+
+10) Desenvolva um método que dado um número inteiro ímpar, ele exiba um losango com a linha
+central formada por um número de asteriscos igual ao número informado. Exemplo; número = 7
